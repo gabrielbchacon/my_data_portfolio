@@ -24,12 +24,12 @@ I have guided my career to be 100% data-oriented and focused on the Data Science
  - Data Analysis
  - Models Creation
  - App Development
- - 
+
 
 ### Models Creation
 
 
-#### Clustering 
+#### *Clustering*
 
 I wrapped all the clustering projects I worked on in the following folder: 
 https://github.com/gabrielbchacon/Clustering
@@ -37,7 +37,7 @@ https://github.com/gabrielbchacon/Clustering
 My highlight is the notebook called *[clustering-the-countries-by-k-means.ipynb](https://github.com/gabrielbchacon/Clustering/blob/main/clustering-the-countries-by-k-means.ipynb)* where I used k-means approach to cluster countries based on social-economic metrics. 
 
 
-#### Classification
+#### *Classification*
 
 I wrapped all the clustering projects I worked on in the following folder: 
 https://github.com/gabrielbchacon/classification_models
@@ -51,11 +51,11 @@ The main project was the notebook called [*nlp-model-to-predict-hate-speech.ipyn
 
 I also have an interest in app development. I got courses about HTML, CSS, Javascript, and ReactJs, but my focus is Python.
 
- I decided to build an application called "Como Vota" (How do you vote?) which allows people to have a better understanding of the parliamentary activity, giving a level of transparency I believe is missing in the political scenario in Brazil. 
+I decided to build an application called "Como Vota" (How do you vote?) which allows people to have a better understanding of the parliamentary activity, giving a level of transparency I believe is missing in the political scenario in Brazil. 
 
 I built it using a lib called Streamlit that allows creating a web app and host in a very easy way. It was required to know how to work with API and build objects to extract and dump the JSON files. Also some data vizualization tools such as plot using Plotly and Seaborn. 
 
- Further, I will host all those methods in the cloud to automate the process of updating data. I'm also planning to share those bases on the Kaggle platform to allow the community to analyze this dataset. I also have plans to work with NLP to analyze the speech and give an overview of the congresspeople's interests. 
+Further, I will host all those methods in the cloud to automate the process of updating data. I'm also planning to share those bases on the Kaggle platform to allow the community to analyze this dataset. I also have plans to work with NLP to analyze the speech and give an overview of the congresspeople's interests. 
 
 You can check the application at the following link: 
 https://share.streamlit.io/gabrielbchacon/como_vota_st/main/st_comovota.py
