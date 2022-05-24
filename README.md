@@ -16,7 +16,7 @@ Twitter: https://twitter.com/otalchacon
 
 You can check my whole resume at the following link: 
 
-https://www.canva.com/design/DAEux_jRJhc/BOVRUyJJMcaAtYiLXJWm_g/view?utm_content=DAEux_jRJhc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://github.com/gabrielbchacon/my_data_portfolio/blob/main/CV%20-%20Gabriel%20Chacon%20-%20English.pdf
 
 
 ## Portfolio
