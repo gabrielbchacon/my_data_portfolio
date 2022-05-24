@@ -6,13 +6,17 @@
 I'm Gabriel Chacon. I have a bachelor's degree in Economics with Data Science Specialization. I have been working in Startups in several stages of growth, banks and retail market focused on business areas. I'm an enthusiast of Data Science, my focus is to be a bridge between core business areas and Data. I have Python skills, Statistics models, Machine Learning, and Data Visualization tools. I'm also a tech content creator, you can check my Youtube channel called (Chá con Tech), it is in Portuguese, and it teaches Python and Data-related topics. 
 
 You can find me on this follow social link:
+
 Linkedin: https://www.linkedin.com/in/gabriel-chacon-912b8ab9/
+
 YouTube: https://www.youtube.com/channel/UCLVcdDuJIkpfyZnZgy5WUbQ
+
 Twitter: https://twitter.com/otalchacon
 
 You can check my whole resume at the following link: 
 
 [https://github.com/gabrielbchacon/my_data_portfolio/blob/main/CV%20-%20Gabriel%20Chacon%20-%20English.pdf](https://github.com/gabrielbchacon/my_data_portfolio/blob/main/CV%20-%20Gabriel%20Chacon%20-%20English.pdf)
+
 
 ## Portfolio
 I have guided my career to be 100% data-oriented and focused on the Data Science skill set. It is, of course, a challenge because Data Science is a such huge and complex field requiring a skill set very diverse. So I'll divide this portfolio into 3 main topics:
@@ -20,6 +24,7 @@ I have guided my career to be 100% data-oriented and focused on the Data Science
  - Data Analysis
  - Models Creation
  - App Development
+ - 
 
 ### Models Creation
 
@@ -31,10 +36,12 @@ https://github.com/gabrielbchacon/Clustering
 
 My highlight is the notebook called *[clustering-the-countries-by-k-means.ipynb](https://github.com/gabrielbchacon/Clustering/blob/main/clustering-the-countries-by-k-means.ipynb)* where I used k-means approach to cluster countries based on social-economic metrics. 
 
+
 #### Classification
 
 I wrapped all the clustering projects I worked on in the following folder: 
 https://github.com/gabrielbchacon/classification_models
+
 
 The main project was the notebook called [*nlp-model-to-predict-hate-speech.ipynb*](https://github.com/gabrielbchacon/classification_models/blob/main/nlp-model-to-predict-hate-speech.ipynb) where the challenge was classifying tweet that was considered hate speech. It requires NLP skill set to build a bag of words array to train the data set. 
 
