@@ -7,10 +7,14 @@ I'm Gabriel Chacon. I have a bachelor's degree in Economics with Data Science Sp
 
 You can find me on this follow social link:
 Linkedin: https://www.linkedin.com/in/gabriel-chacon-912b8ab9/
+
 YouTube: https://www.youtube.com/channel/UCLVcdDuJIkpfyZnZgy5WUbQ
+
 Twitter: https://twitter.com/otalchacon
 
-You can check my whole resume at the following link: https://www.canva.com/design/DAEux_jRJhc/BOVRUyJJMcaAtYiLXJWm_g/view?utm_content=DAEux_jRJhc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+You can check my whole resume at the following link: 
+
+https://www.canva.com/design/DAEux_jRJhc/BOVRUyJJMcaAtYiLXJWm_g/view?utm_content=DAEux_jRJhc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Portfolio
 I have guided my career to be 100% data-oriented and focused on the Data Science skill set. It is, of course, a challenge because Data Science is a such huge and complex field requiring a skill set very diverse. So I'll divide this portfolio into 3 main topics:
