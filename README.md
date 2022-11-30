@@ -6,8 +6,11 @@
 I'm Gabriel Chacon. I have a bachelor's degree in Economics with Data Science Specialization. I have been working in Startups in several stages of growth, banks and retail market focused on business areas. I'm an enthusiast of Data Science, my focus is to be a bridge between core business areas and Data. I have Python skills, Statistics models, Machine Learning, and Data Visualization tools. I'm also a tech content creator, you can check my Youtube channel called (Chá con Tech), it is in Portuguese, and it teaches Python and Data-related topics. 
 
 You can find me on this follow social link:
+
 Linkedin: https://www.linkedin.com/in/gabriel-brchacon/
+
 YouTube Channel: https://www.youtube.com/c/CháconTech
+
 Kaggle Profile: https://www.kaggle.com/gabrielbchacon
 
 
