@@ -59,4 +59,5 @@ This project focuses on analyzing customer churn in a telecommunications company
 CLUSTERING NATIONS BY SOCIO-ECONOMIC INDICATORS #MachineLearning #Clustering #DataAnalysis #DataVizualization
 
 This project employs unsupervised learning techniques, particularly K-means clustering, to categorize countries based on socio-economic and health factors. It identifies three distinct clusters (A, B, and C) representing varying levels of economic development and health metrics. Notably, the correlation between economic growth and improvements in net income per person is highlighted. While K-means effectively separates countries based on analyzed factors, it may oversimplify complex socio-economic contexts, leading to diverse countries being grouped together. This underscores the importance of considering additional factors such as political influence and economic context for more nuanced aid allocation decisions.
+
 [Check this project](https://github.com/gabrielbchacon/my_data_portfolio/blob/main/clustering-countries-by-k-means.ipynb)
